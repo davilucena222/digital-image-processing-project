@@ -3,22 +3,6 @@
   The goal of this project was to develop algorithms that treat and modify images from their pixels, by increasing brightness, luminance, and intensity. Each image used in this project had changes that will be demonstrated and discussed throughout this description.
 </p>
 
-<p>
-  This project was developed by 3 people:
-</p>
-
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/davi-luiz-a54645195/?locale=en_US">Davi José Lucena Luiz</a>
-  </li>
-  <li>
-    <a href="https://www.linkedin.com/in/fabricio-dev/">Carlos Fabrício da Silva Pontes</a>
-  </li>
-  <li>
-    <a href="https://www.linkedin.com/in/abraão-homualdo-8300b8203/">Abrãao Homualdo Alves Moreira</a>
-  </li>
-</ul>
-
 # Techonologies
 <ul>
   <li>Python</li>
@@ -112,3 +96,22 @@ Finally, in the fifth application, we had an image with some behaviors due to th
     </a>
   </li>
 </ul>
+
+
+# Developers:
+<a href="https://www.linkedin.com/in/davi-luiz-a54645195/" target="_blank">
+  <img align="center" alt="davi-linkedin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+  Davi José Lucena Luiz
+</a>
+
+
+
+<a href="https://www.linkedin.com/in/fabricio-dev/" target="_blank">
+  <img align="center" alt="davi-linkedin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+  Carlos Fabrício da Silva Pontes
+</a>
+
+<a href="https://www.linkedin.com/in/abraão-homualdo-8300b8203/" target="_blank">
+  <img align="center" alt="davi-linkedin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+  Abrãao Homualdo Alves Moreira
+</a>
